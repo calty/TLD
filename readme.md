@@ -1,6 +1,10 @@
-Lamamod v.1.0.0
+Lamamod v.1.0.1
 
-Requierements
+Summary
+
+Lamamod lets you craft a plushy Lamafriend for your adventure.
+
+Requirements
 - ModComponent
 - ModSettings 
 - LocalizationUtilities
@@ -15,3 +19,6 @@ Installation
 Usage
 - Lama Plushy can be spawned in Inventory via console Command "add GEAR_lama"
 - Lama Plushy can be crafted with Sewing Kit from a Piece of Cloth
+
+Changes
+- 1.0.1: Fixed error in localisation.json
